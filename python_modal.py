@@ -27,9 +27,9 @@ banner = f'''{cyan}
   . ----- -----|  |  ---.- |  |  ----- ----.
   |          (°∆°) Muslim Army (°∆°)         |
   |__ __ _____ ____ ___ ___ __ _____ __|  
-                 Developer ~ Red....Hacker                          
+                 Developer ~ @Red....Hacker                          
                  Tool ~ Termux Hacking Lab Setup                            
-                 For More ~ helpsong  @Romgan 99
+                 For More ~ join | @Romgan 99
 '''
 colour = f"{no_colour} "
 
